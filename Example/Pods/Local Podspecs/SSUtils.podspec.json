@@ -1,0 +1,22 @@
+{
+  "name": "SSUtils",
+  "version": "0.1.0",
+  "summary": "工具类集合：包含普通方法、静态方法、类别",
+  "description": "一些小功能的工具类集合",
+  "homepage": "https://github.com/sususu/SSUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sujiang": "sujiang@infzm.com"
+  },
+  "source": {
+    "git": "https://github.com/sususu/SSUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SSUtils/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module SSUtils {
+  umbrella header "SSUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
